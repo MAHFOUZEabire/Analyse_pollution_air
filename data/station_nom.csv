@@ -1,0 +1,26 @@
+,nom_dept,nom_com,nom_station,code_station,typologie,x_reglementaire,y_reglementaire
+0,Loire-Atlantique,Donges,Ampère,1,suburban,316466.782210571,6703891.20986053
+1,Loire-Atlantique,Donges,Mégretais,3,suburban,319631.265310248,6703516.892939799
+2,Loire-Atlantique,Donges,Bossènes,46,suburban,315480.257937148,6702714.07999788
+3,Loire-Atlantique,Frossay,Frossay,68,rural-nearcity,326851.68236097397,6694673.19531676
+4,Loire-Atlantique,Saint-Étienne-de-Montluc,St-Etienne de Montluc,70,suburban,338676.42390903604,6697925.91450153
+5,Loire-Atlantique,Trignac,Trignac,75,suburban,308186.02080619603,6703473.39112614
+6,Maine-et-Loire,Cholet,St-Exupéry,78,urban,405324.492576865,6668979.67096129
+7,Loire-Atlantique,Nantes,Chauvinière,107,urban,354313.235770181,6693636.21956337
+8,Loire-Atlantique,Saint-Nazaire,Blum,110,urban,303302.16439038,6698059.67152604
+9,Maine-et-Loire,Angers,Beaux-Arts,120,urban,432231.149204996,6713600.72883131
+10,Mayenne,Laval,Mazagran,123,urban,419447.05513753,6781027.24113957
+11,Vendée,La Tardière,La Tardière,124,rural-remote,413852.84208011796,6624178.29807408
+12,Loire-Atlantique,Nantes,Victor-Hugo,140,urban,355542.16489988397,6688165.00491344
+13,Maine-et-Loire,Angers,Appentis,150,urban,432564.458384405,6711233.09728291
+14,Vendée,La Roche-sur-Yon,Delacroix,152,urban,360919.202113302,6627370.06337309
+15,Loire-Atlantique,Montoir-de-Bretagne,Montoir-de-Bretagne,153,suburban,311238.6773168,6705004.85914884
+16,Sarthe,Le Mans,Guédou,174,urban,490882.915323286,6769108.85711881
+17,Mayenne,Saint-Denis-d'Anjou,St-Denis d'Anjou,177,rural-regional,442146.25739316,6748729.60008223
+18,Loire-Atlantique,Saint-Nazaire,Parc paysager,181,urban,305403.885354155,6698924.13470394
+19,Sarthe,Le Mans,Sources,182,urban,492698.552265724,6767064.74857554
+20,Loire-Atlantique,Nantes,Bouteillerie,188,urban,356823.83614176104,6690071.40916714
+21,Loire-Atlantique,Rezé,Trentemoult,238,urban,353300.207665084,6687156.52659728
+22,Loire-Atlantique,Bouguenais,Les Couëts,239,urban,352504.91798131797,6686287.29081938
+23,Loire-Atlantique,Basse Loire,La came,249,,689994.039,5252743.33
+24,Loire-Atlantique,Donges,Plessis,178,,
