@@ -1,5 +1,5 @@
 # Analyse_pollution_air
-Contexte du projet
+Contexte du projet:
 Le 10 juillet 2020, le Conseil d'Etat a rendu publique une décision historique pour contraindre l'Etat Français à prendre des mesures immédiates en faveur de la qualité de l'air. Les seuils fixés par l'Europe pour les particules PM10 et le dioxyde d'azote NO2 doivent être respectés sous peine de lourdes amendes.
 
 La région des Pays de la Loire souhaite savoir s’il y a eu des dépassements de concentration sur des stations locales au cours des deux dernières années.
